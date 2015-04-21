@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container{
+	width:980px;
+	height:1000px;
+	background-color:#DBDBDB
+}
+
+.toplayer{
+ float: right;
+  padding-right: 10px;
+  list-style-type: none;
+}
+	
+.toplayer li a{
+	font-size: 14px;
+  font-weight: 300;
+  color: #313131;
+  text-decoration: none;
+  font-family: "museo-slab-1","museo-slab-2";
+  display: block;
+  height: 30px;
+  padding-top: 20px;
+  padding-right: 40px;
+  padding-bottom: 5px;
+  padding-left: 40px;
+ 
+	
+}
+
+.toplayer li{
+	text-decoration: none;
+	float:right;
+	list-style-type: none;
+
+	
+}
+
